@@ -1,14 +1,14 @@
 # Hi there 👋, I'm Omar Yousry  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Aspiring+Machine+Learning+Engineer;Biomedical+Informatics+Student;Passionate+About+AI+%26+Healthcare;Always+Learning+%26+Building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=1ABC9C&center=true&vCenter=true&width=600&lines=Biomedical+Informatics+Student;Passionate+About+SWE+%26+Healthcare;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 ---
 
 ## 🛠 Skills
 - **Languages**: Python, C++, C, Java  
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Core Concepts**: Data Structures & Algorithms, OOP  
-- **Soft Skills**: Teamwork, Mentoring, Problem-Solving, Critical Thinking  
+- **Soft Skills**: Teamwork, Mentoring, Problem-Solving
 
 ---
 
