@@ -56,18 +56,18 @@ I'm a **Biomedical Informatics student** passionate about leveraging technology 
 
 ## 📈 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar23py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar23py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=C9D1D9&langs_count=6" alt="Top Languages" height="170"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=omar23py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar23py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="48%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar23py&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar23py&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF" alt="GitHub Streak" width="70%"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar23py&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9FFF&line=2E9FFF&point=C9D1D9" alt="Contribution Graph"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=omar23py&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2E9FFF&line=2E9FFF&point=C9D1D9" alt="Contribution Graph" width="95%"/>
+</p>
 
 ---
 
@@ -86,7 +86,5 @@ I'm a **Biomedical Informatics student** passionate about leveraging technology 
 <div align="center">
   
 ### 💡 *"Bridging technology and medicine to create smarter healthcare solutions"*
-
-![Profile Views](https://komarev.com/ghpvc/?username=omar23py&color=2E9FFF&style=for-the-badge)
 
 </div>
