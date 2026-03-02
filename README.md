@@ -10,7 +10,7 @@
 
 I'm a **Biomedical Informatics student** passionate about leveraging technology to transform healthcare. I combine software engineering skills with domain knowledge to build solutions that make a real impact.
 
-- 🔬 Exploring the intersection of **AI, data science, and healthcare**
+- 🔬 Exploring the intersection of **AI, Software engineering, and healthcare**
 - 💻 Building projects that solve real-world problems
 - 📚 Continuously learning and expanding my technical toolkit
 - 🤝 Open to collaborations on healthcare tech and data-driven projects
