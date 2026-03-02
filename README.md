@@ -59,12 +59,12 @@ I'm a **Biomedical Informatics student** passionate about leveraging technology 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omar23py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=C9D1D9&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar23py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=C9D1D9&langs_count=6" alt="Top Languages" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omar23py&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&icon_color=2E9FFF&text_color=C9D1D9&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omar23py&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9FFF&text_color=C9D1D9&langs_count=6&cache_seconds=1800" alt="Top Languages" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar23py&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF" alt="GitHub Streak" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=omar23py&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9FFF&fire=2E9FFF&currStreakLabel=2E9FFF" alt="GitHub Streak" width="55%" />
 </p>
 
 <p align="center">
