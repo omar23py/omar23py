@@ -17,29 +17,24 @@ I'm a **Biomedical Informatics student** passionate about leveraging technology 
 
 ---
 
-## 🛠️ Technical Stack
+## 💻 Tech Stack
+
+### Programming Languages
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=dart,python,java,c,cpp,php,html,css,js&theme=dark" />
+</div>
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Framework & Backend
 
-### Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,laravel,nodejs,mongodb,mysql,sqlite&theme=dark" />
+</div>
 
-### Data Science & Analysis
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Tools & Software
 
-### Core Competencies
-`Data Structures & Algorithms` • `Object-Oriented Programming` • `Problem Solving` • `Team Collaboration`
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,phpstorm,figma,github,git,postman,docker,linux&theme=dark" />
 </div>
 
 ---
