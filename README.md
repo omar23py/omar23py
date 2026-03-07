@@ -22,19 +22,25 @@ I'm a **Biomedical Informatics student** passionate about leveraging technology 
 ### Programming Languages
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=dart,python,java,c,cpp,php,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java&theme=dark" />
 </div>
 
-### Framework & Backend
+### Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase,laravel,nodejs,mongodb,mysql,sqlite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" />
+</div>
+
+### Data Science & Analysis
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=numpy,pandas&theme=dark" />
 </div>
 
 ### Tools & Software
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,phpstorm,figma,github,git,postman,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" />
 </div>
 
 ---
